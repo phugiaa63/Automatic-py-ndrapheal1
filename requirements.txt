@@ -1,0 +1,10 @@
+selenium==4.15.2
+pandas==2.1.3
+pyotp
+openpyxl==3.1.2
+webdriver-manager==4.0.1
+pillow
+opencv-python
+numpy
+setuptools
+pyautogui
